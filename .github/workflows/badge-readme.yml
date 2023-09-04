@@ -16,6 +16,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: atmarker/atmarker@main
+        uses: atmarker/badge-readme@main
         with:       
           CREDLY_USER: atmarker
