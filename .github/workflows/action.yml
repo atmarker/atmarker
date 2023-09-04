@@ -1,7 +1,6 @@
 name: Update badges
 
 on:
-  manual
   schedule:
     # Runs at 2am UTC
     - cron: "0 2 * * *"
